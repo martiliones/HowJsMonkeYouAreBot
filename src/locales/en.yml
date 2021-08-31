@@ -5,6 +5,7 @@ menu:
     To use this bot, simply type "@HowJsMonkeBot" into your text box and click one of the results or click the button attached to this message 👇.
   button: 🐵 Share how much JS monkey you are!
   link: 🧑‍💻 Get bot's code or create issue on GitHub
+  switch_language: 🇷🇺 Переключить на русский
 
 result:
   image: https://raw.githubusercontent.com/martiliones/HowJsMonkeYouAreBot/dev/assets/result.jpg
@@ -13,3 +14,6 @@ result:
   description: Send result to this chat
 
   result: ${emoji} ${name ? name + ' is':'I am'} ${percentage}% JavaScript monke!
+
+language:
+  success: 🎉 The language has been successfully changed

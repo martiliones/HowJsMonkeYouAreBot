@@ -5,6 +5,7 @@ menu:
     Чтобы воспользоваться этим ботом, просто введите "@HowJsMonkeBot" в поле ввода и нажмите на один из результатов или тапните на кнопку ниже 👇.
   button: 🐵 Поделиться на сколько ты жс макака!
   link: 🧑‍💻 Get bot's code or create issue on GitHub
+  switch_language: 🇺🇸 Switch to English
 
 result:
   image: https://raw.githubusercontent.com/martiliones/HowJsMonkeYouAreBot/dev/assets/result.jpg
@@ -13,3 +14,7 @@ result:
   description: Отправить результат в этот чат
 
   result: ${emoji} ${name ? name :'Я'} на ${percentage}% жс макака!
+
+language:
+  success: 🎉 Язык был успешно изменен
+
