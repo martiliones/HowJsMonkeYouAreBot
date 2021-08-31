@@ -1,0 +1,19 @@
+{
+  "name": "howjsmonkeyouarebot",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "NODE_ENV=development nodemon ."
+  },
+  "keywords": [
+    "libtelegram"
+  ],
+  "author": "martiliones",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^9.0.2",
+    "nodemon": "^2.0.12"
+  }
+}

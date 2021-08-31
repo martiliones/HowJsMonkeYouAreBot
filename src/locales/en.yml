@@ -1,0 +1,15 @@
+menu:
+  text: |
+    👋 Hello, ${first_name}!
+
+    To use this bot, simply type "@HowJsMonkeBot" into your text box and click one of the results or click the button attached to this message 👇.
+  button: 🐵 Share how much JS monkey you are!
+  link: 🧑‍💻 Get bot's code or create issue on GitHub
+
+result:
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Cat_poster_1.jpg/1280px-Cat_poster_1.jpg
+  default_title: How much JavaScript monke you are?
+  custom_title: How much JavaScript monke ${name} is?
+  description: Send result to this chat
+
+  result: ${emoji} ${name ? name + ' is':'I am'} ${percentage}% JavaScript monke!
