@@ -7,7 +7,7 @@ menu:
   link: 🧑‍💻 Get bot's code or create issue on GitHub
 
 result:
-  image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Cat_poster_1.jpg/1280px-Cat_poster_1.jpg
+  image: https://raw.githubusercontent.com/martiliones/HowJsMonkeYouAreBot/dev/assets/result.jpg
   default_title: На сколько ты жс макака?
   custom_title: Насколько ${name} жс макака?
   description: Отправить результат в этот чат
