@@ -47,7 +47,7 @@ bot.inline((usr, msg) => {
         message_text: result,
       }
     }
-  ]
+  ];
 
   msg.answer(results, {
     is_personal: true
