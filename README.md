@@ -11,6 +11,10 @@
 <h2>👀 Preview</h2>
 Check out telegram bot here ~> https://t.me/HowJsMonkeBot
 
+<p align="center">
+  <img src="./assets/screenshot.jpg" width="300"/>
+</p>
+
 <h2>🚀 Installation</h2>
 
 Clone repository
